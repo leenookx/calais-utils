@@ -1,0 +1,5 @@
+* Really need to sort out the code. There's lots of repetition
+  that needs to be refactored out.
+
+* Probably would be a good idea to allow the user to specify
+  which parts of the calais metadata they would like returned.
